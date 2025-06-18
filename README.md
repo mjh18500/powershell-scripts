@@ -1,3 +1,5 @@
+Scripts in Install_Printers folder to be used under same directory.
+
 365 = Microsoft 365
 
 AD  = Active Directory
