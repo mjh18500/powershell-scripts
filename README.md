@@ -10,4 +10,4 @@ EX  = Microsoft Exchange Online/or On-Prem
 
 WIN = Windows OS
 
-GOOG= JavaScript used in Google Scripts
+GOOG= JavaScript used in Google Apps Script
